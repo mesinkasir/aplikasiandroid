@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/xampp/htdocs/android APK web view/latihan/apk - Copy/app/src/main/res/layout/activity_main.xml" value="0.18070652173913043" />
+        <entry key="..\:/xampp/htdocs/android APK web view/latihan/apk - Copy/app/src/main/res/layout/app_bar_main.xml" value="0.18070652173913043" />
+        <entry key="..\:/xampp/htdocs/android APK web view/latihan/apk - Copy/app/src/main/res/layout/content_main.xml" value="0.18070652173913043" />
+        <entry key="..\:/xampp/htdocs/android APK web view/latihan/apk - Copy/app/src/main/res/layout/fragment_about.xml" value="0.18070652173913043" />
+        <entry key="..\:/xampp/htdocs/android APK web view/latihan/apk - Copy/app/src/main/res/layout/fragment_contact.xml" value="0.18070652173913043" />
+        <entry key="..\:/xampp/htdocs/android APK web view/latihan/apk - Copy/app/src/main/res/layout/fragment_home.xml" value="0.18070652173913043" />
+        <entry key="..\:/xampp/htdocs/android APK web view/latihan/apk - Copy/app/src/main/res/layout/fragment_services.xml" value="0.18070652173913043" />
+        <entry key="..\:/xampp/htdocs/android APK web view/latihan/apk - Copy/app/src/main/res/menu/activity_main_drawer.xml" value="0.20677083333333332" />
+        <entry key="..\:/xampp/htdocs/android APK web view/latihan/apk/app/src/main/res/layout/app_bar_main.xml" value="0.1" />
+        <entry key="..\:/xampp/htdocs/android APK web view/latihan/apk/app/src/main/res/layout/content_main.xml" value="0.1272644927536232" />
+        <entry key="..\:/xampp/htdocs/android APK web view/latihan/apk/app/src/main/res/layout/fragment_about.xml" value="0.1" />
+        <entry key="..\:/xampp/htdocs/android APK web view/latihan/apk/app/src/main/res/layout/fragment_contact.xml" value="0.1" />
+        <entry key="..\:/xampp/htdocs/android APK web view/latihan/apk/app/src/main/res/layout/fragment_home.xml" value="0.1" />
+        <entry key="..\:/xampp/htdocs/android APK web view/latihan/apk/app/src/main/res/layout/fragment_services.xml" value="0.1" />
+        <entry key="..\:/xampp/htdocs/android APK web view/latihan/apk/app/src/main/res/layout/nav_header_main.xml" value="0.1" />
+        <entry key="..\:/xampp/htdocs/android APK web view/latihan/apk/app/src/main/res/menu/activity_main_drawer.xml" value="0.1" />
+        <entry key="..\:/xampp/htdocs/android APK web view/latihan/apk/app/src/main/res/menu/main.xml" value="0.1" />
+        <entry key="..\:/xampp/htdocs/android APK web view/latihan/apk/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.11197916666666667" />
+        <entry key="..\:/xampp/htdocs/android APK web view/latihan/apk/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.11197916666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
