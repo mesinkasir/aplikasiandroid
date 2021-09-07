@@ -1,37 +1,41 @@
-## Welcome to GitHub Pages
+# Aplikasi Android Gratis
 
-You can use the [editor on GitHub](https://github.com/mesinkasir/aplikasiandroid/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Untuk kemudahan membuat aplikasi android dengan kreasi mu sendiri menggunakan android studio .
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+free source code download
 
-### Markdown
+---------------------------------------------------------
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Simple Features :
 
-```markdown
-Syntax highlighted code block
+![aplikasi android gratis download free source code](https://1.bp.blogspot.com/-CdIhUdBtP6Q/YTbr2qEik9I/AAAAAAAAQ-I/gvgcsSUvdMkZT18vg5DXloDDGDXHpnAWACLcBGAsYHQ/s676/slider.png)
 
-# Header 1
-## Header 2
-### Header 3
+SLider menu navigation
 
-- Bulleted
-- List
+![aplikasi android gratis download free source code](https://1.bp.blogspot.com/-XnTIqLFDzcM/YTbr0xXbrsI/AAAAAAAAQ98/AlWsvD861RkJRtqdGPVBgPbM9rgQXDz4wCLcBGAsYHQ/s696/home.png)
 
-1. Numbered
-2. List
+Home page
 
-**Bold** and _Italic_ and `Code` text
+![aplikasi android gratis download free source code](https://1.bp.blogspot.com/-WyIAZbt_HwY/YTbr04zrmbI/AAAAAAAAQ94/GAVBVbjbO6gLbcWtUQvE3htIQsjt2nK4wCLcBGAsYHQ/s650/about%2Bus.png)
 
-[Link](url) and ![Image](src)
-```
+ABout us page
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+![aplikasi android gratis download free source code](https://1.bp.blogspot.com/--RL-RtBPuT8/YTbr2SVRE5I/AAAAAAAAQ-E/i4NZ-8-DQDkIcxUEUT34OcLGjg90xW-0ACLcBGAsYHQ/s658/product.png)
 
-### Jekyll Themes
+Product Services page
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mesinkasir/aplikasiandroid/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+![aplikasi android gratis download free source code](https://1.bp.blogspot.com/-OUHvO3wOw04/YTbr1Pxs4hI/AAAAAAAAQ-A/gwPVZD2_A683tCypwRSOAuU7sen3lz1GwCLcBGAsYHQ/s640/contact.png)
 
-### Support or Contact
+Contact Page
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Develope and build use 
+
+![aplikasi android gratis download free source code](https://1.bp.blogspot.com/-FIsRF3T-9uI/YTbr30vTFtI/AAAAAAAAQ-M/TwiUFFF5-6IGEDVzyxblQfaleQPhNGQbQCLcBGAsYHQ/s634/android%2Bnew%255D.png)
+
+---------------------------------------------------------
+
+Video demo [https://www.youtube.com/watch?v=12nlUAnqo2o](https://www.youtube.com/watch?v=12nlUAnqo2o)
+
+How to install : [https://www.hockeycomputindo.com/2021/09/aplikasi-android-gratis-source-code.html](https://www.hockeycomputindo.com/2021/09/aplikasi-android-gratis-source-code.html)
+
+[Buy Me A coffeee.....](https://www.hockeycomputindo.com/2021/09/aplikasi-android-gratis-source-code.html#buycofee)
